@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy Fernando Mazo
 
-<!--
-**Fern4t/Fern4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Matemático reconvertido en profesional de la ciberseguridad ofensiva.  
+🔐 OSCP | eJPT | OSWE (en curso)  
+🧠 Apasionado por el aprendizaje técnico, los CTFs y el hacking ético.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Actualmente me especializo en pruebas de penetración, explotación web y hacking WiFi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Madrid, España  
+🔎 En búsqueda de mi primer puesto como **Junior Pentester**
+
+## 🧰 Tecnologías y herramientas
+- **Pentesting**: Nmap, Burp Suite, SQLMap, Metasploit, Gobuster  
+- **Explotación Web**: XSS, SQLi, LFI, SSRF, CSRF  
+- **Redes WiFi**: Aircrack-ng, Wifite, Kismet  
+- **Sistemas**: Kali Linux, Ubuntu, Windows Server  
+- **Scripting**: Python, Bash  
+- **Plataformas**: Hack The Box, TryHackMe, VulnHub
+
+## 📂 Repos destacados
+[comment]: <> (- [`oscp-prep`](https://github.com/Fern4t/oscp-prep) – Scripts y recursos usados durante mi preparación para OSCP  )
+[comment]: <> (- [`wifi-audit-tools`](https://github.com/Fern4t/wifi-audit-tools) – Scripts básicos para auditoría de redes inalámbricas  )
+[comment]: <> (- [`htb-writeups`](https://github.com/Fern4t/htb-writeups) – Writeups personales de máquinas públicas de Hack The Box (sin flags))
+
+## 📫 Contacto
+- ✉️ fernandomazo@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernando-mazo-aguirre-622393279)
+
+---
