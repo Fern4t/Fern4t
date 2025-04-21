@@ -19,9 +19,10 @@ Actualmente me especializo en pruebas de penetración, explotación web y hackin
 - **Plataformas**: Hack The Box, TryHackMe, VulnHub
 
 ## 📂 Repos destacados
-[comment]: <> (- [`oscp-prep`](https://github.com/Fern4t/oscp-prep) – Scripts y recursos usados durante mi preparación para OSCP  )
-[comment]: <> (- [`wifi-audit-tools`](https://github.com/Fern4t/wifi-audit-tools) – Scripts básicos para auditoría de redes inalámbricas  )
-[comment]: <> (- [`htb-writeups`](https://github.com/Fern4t/htb-writeups) – Writeups personales de máquinas públicas de Hack The Box (sin flags))
+- [`gtfobins-search`](https://github.com/Fern4t/gtfobinsearch) - Script en python para consultar por consola si un binario con un permiso específico se puede usar para escalar privilegios en linux.
+<!-- - [`oscp-prep`](https://github.com/Fern4t/oscp-prep) – Scripts y recursos usados durante mi preparación para OSCP -->
+<!-- - [`wifi-audit-tools`](https://github.com/Fern4t/wifi-audit-tools) – Scripts básicos para auditoría de redes inalámbricas -->
+<!-- - [`htb-writeups`](https://github.com/Fern4t/htb-writeups) – Writeups personales de máquinas públicas de Hack The Box (sin flags) -->
 
 ## 📫 Contacto
 - ✉️ fernandomazo@gmail.com  
